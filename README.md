@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer from Japan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgeosddev" alt="georgeosddev" /> </p>
 
-- 🔭 I’m currently working on [Mobilus](https://mobilus.co.jp/agent/)
+- 🔭 I’m currently working on [Microsoft](https://microsoft.com/)
 
 - 👯 I’m looking to collaborate on [mobilusoss](https://github.com/mobilusoss)
 
